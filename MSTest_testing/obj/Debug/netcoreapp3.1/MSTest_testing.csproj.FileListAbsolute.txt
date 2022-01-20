@@ -1,0 +1,13 @@
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.exe
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.deps.json
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.runtimeconfig.json
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.runtimeconfig.dev.json
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.dll
+D:\My Projects\MSTest_testing\MSTest_testing\bin\Debug\netcoreapp3.1\MSTest_testing.pdb
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.AssemblyInfoInputs.cache
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.AssemblyInfo.cs
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.csproj.CoreCompileInputs.cache
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.dll
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.pdb
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.genruntimeconfig.cache

@@ -75,7 +75,7 @@ namespace MSTest_tesingpjt
             Console.WriteLine(result);
         }
 
-        [TestMethod]
+        [TestMethod, Priority(1), TestCategory("get myanmar ph no format")] //write name
         public void TestGetPhoneNumberFormat()
         {
             string phno = "250006158";
@@ -90,6 +90,17 @@ namespace MSTest_tesingpjt
             Console.WriteLine(result1);
             Console.WriteLine(result2);
             Console.WriteLine(result3);
+        }
+
+        [TestMethod]
+        [DataRow(-1)]
+        [DataRow(0)]
+        [DataRow(1)]
+        public void IsPrime_ValuesLessThan2_ReturnFalse(int value)
+        {
+            var result = MSTest_testing.Convert.IsPrime(value);
+
+            Assert.IsFalse(result, $"{value} should not be prime");
         }
 
     }

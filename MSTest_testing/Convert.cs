@@ -105,5 +105,13 @@ namespace MSTest_testing
             Regex digitsOnly = new Regex(@"[^\d]");
             return digitsOnly.Replace(PhoneNo, "");
         }
+        public static bool IsPrime(int candidate)
+        {
+            if (candidate == 1)
+            {
+                return false;
+            }
+            throw new NotImplementedException("Please create a test first.");
+        }
     }
 }

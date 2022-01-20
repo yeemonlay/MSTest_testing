@@ -11,3 +11,4 @@ D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_test
 D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.dll
 D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.pdb
 D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.genruntimeconfig.cache
+D:\My Projects\MSTest_testing\MSTest_testing\obj\Debug\netcoreapp3.1\MSTest_testing.csproj.AssemblyReference.cache
